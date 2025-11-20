@@ -1,3 +1,5 @@
+NAME: Praveen S
+REG NO: 212223210019
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 
 AIM
@@ -30,6 +32,10 @@ voltages are noted down.
 
 <img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
 
+WAVEFORM:
+<img width="982" height="764" alt="image" src="https://github.com/user-attachments/assets/8449925d-fee3-4619-90e1-c02359838381" />
+
 RESULT:
+The output voltage was found to vary linearly with displacement, confirming the LVDT works effectively as a displacement transducer.
 
 
