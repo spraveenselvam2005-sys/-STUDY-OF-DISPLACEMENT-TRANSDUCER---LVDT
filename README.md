@@ -1,6 +1,8 @@
-NAME: Praveen S
-REG NO: 212223210019
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
+
+NAME: Praveen S
+
+REG NO: 212223210019
 
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
